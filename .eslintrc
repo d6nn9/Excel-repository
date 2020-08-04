@@ -11,6 +11,7 @@
         "comma-dangle": "off",
         "require-jsdoc": "off",
         "linebreak-style": 0,
+        "object-curly-spacing": "off"
     },
     "extends": [
         "eslint:recommended",
